@@ -16,7 +16,9 @@ On peut placer la ligne et la colonne sur n'importe quel côté du carré et l'o
 
 ## Notes 
 
-Normalement, dès le début les spectateurs pensent qu'il suffit que le magicien apprenne le carré de 5x5 lorsqu'il place la ligne et la la colonne. À ce moment, on peut refaire le tour de magie mais le magicien de l' **étape 1** et de l' **étape 2** sont deux personnes différentes et ne communicant pas pendant le tour (mais peuvent le faire avant).
+Normalement, dès le début les spectateurs pensent qu'il suffit que le magicien apprenne le carré de 5x5 lorsqu'il place la ligne et la colonne.
+À ce moment, on peut refaire le tour de magie mais le magicien de l' **étape 1** et de l' **étape 2** sont deux personnes différentes et ne communicant pas pendant le tour (mais peuvent le faire avant).
+Pour cette raison, il est recommandé d'être nombreux à faire le tour (~1 personne par groupe).
 
 Aussi, certains élèves peuvent chercher à tricher pour piéger le magicien. Il faut bien leur expliquer que leur objectif est de trouver comment faire le tour de magie et non pas de faire en sorte que celui-ci ne fonctionne pas.
 
